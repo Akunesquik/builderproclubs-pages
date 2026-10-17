@@ -25,12 +25,6 @@
     <loc>https://proclubslab.fr/gestes-techniques/</loc>
   </url>
   <url>
-    <loc>https://proclubslab.fr/equipe/</loc>
-  </url>
-  <url>
-    <loc>https://proclubslab.fr/calendrier/</loc>
-  </url>
-  <url>
     <loc>https://proclubslab.fr/mentions-legales/</loc>
   </url>
   <url>
@@ -38,5 +32,11 @@
   </url>
   <url>
     <loc>https://proclubslab.fr/conditions-utilisation/</loc>
+  </url>
+  <url>
+    <loc>https://proclubslab.fr/a-propos/</loc>
+  </url>
+  <url>
+    <loc>https://proclubslab.fr/contact/</loc>
   </url>
 </urlset>
